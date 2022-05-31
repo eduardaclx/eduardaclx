@@ -6,10 +6,13 @@
   <a href="https://github.com/eduardaclx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardaclx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaclx&layout=compact&langs_count=7&theme=midnight-purple"/>
+   
  </div>
  
  ##
 
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas na SPTECH
  <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
  <br>
  <br>
