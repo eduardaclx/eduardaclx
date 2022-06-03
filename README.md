@@ -1,4 +1,4 @@
-###  ☂️ Olá, sou a Calixto ☂️
+###  ☂️ Welcome, I'm Calixto ☂️
 ##
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas na SPTECH
