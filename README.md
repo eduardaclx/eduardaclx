@@ -29,6 +29,39 @@
    <a href="https://www.behance.net/dudacalixto" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/callixtoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+    
+    informe apenas os nomes dos planetas na coordenada "-23.55803278435977, -46.66162472962092" ordenada de forma decrescente pelo id.
+
+mostre apenas as coordenadas que contenham "66152" ordenada de forma decrescente pelo nome do planeta.
+
+Informe o nome das armas de fogo que custam mais de X ordenadas de forma crescente pelo custo.
+
+Informe a descricao dos artefatos que custam menos de X e mais de Y ordenadas de forma decrescente pelo id .
+
+Informe o nome das espadas que custam menos de X ordenadas de forma decrescente pelo id.
+
+6 - mostre os poderes que tenham a penultima letra x  ordenados pelo nivel de poder.
+
+
+7 - mostre os poderes que tenham a 3 letra x ordenados pelo nivel de poder menor que X e maior que Y.
+
+8 - mostre apenas os poderes que tenham niveis acima de X na ordem decrescente 
+
+9 - mostre os personagens de indole X 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
    </div>
   
