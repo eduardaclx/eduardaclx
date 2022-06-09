@@ -30,7 +30,14 @@
 <a href="https://instagram.com/callixtoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
     
-    informe apenas os nomes dos planetas na coordenada "-23.55803278435977, -46.66162472962092" ordenada de forma decrescente pelo id.
+
+
+
+ 
+
+   </div>
+ 
+ informe apenas os nomes dos planetas na coordenada "-23.55803278435977, -46.66162472962092" ordenada de forma decrescente pelo id.
 
 mostre apenas as coordenadas que contenham "66152" ordenada de forma decrescente pelo nome do planeta.
 
@@ -62,8 +69,6 @@ Informe o nome das espadas que custam menos de X ordenadas de forma decrescente 
 
 
  
-
-   </div>
   
 
   
