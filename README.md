@@ -31,7 +31,7 @@
    
 ##
  
-   ### ✨Informações Gerais
+   ### ✨ Informações Gerais
    
    📚 Estudante de Analise e Desenvolvimento de Sistemas na SPTECH
 
