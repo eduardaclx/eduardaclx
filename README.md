@@ -18,12 +18,11 @@
  ##
    
  <br>
-  
-<div align="center">
-  <br>
    
    ### 🖥️ Tecnologias que uso no meu dia a dia
-   
+  
+<div align="center">
+  <br> 
    <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
    <br>
    <br>
