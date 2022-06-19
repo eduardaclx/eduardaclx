@@ -23,7 +23,6 @@
  <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
  <br>
  </div>
-  <br>
   
    <div align="center">
     <a href="https://www.linkedin.com/in/eduarda-calixto/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
