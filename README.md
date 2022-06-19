@@ -34,4 +34,7 @@
    ### ✨ Informações Gerais
    
    📚 Estudante de Analise e Desenvolvimento de Sistemas na SPTECH
+   👾 1/4 Semestres
+   🌎 Inglês intermediário
+   
 
