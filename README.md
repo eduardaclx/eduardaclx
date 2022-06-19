@@ -16,8 +16,6 @@
  </div>
  
  ##
-<br>
-   <br>
 ### 🖥️ Tecnologias que uso no meu dia a dia
 <div align="center">
   <br>
@@ -25,7 +23,6 @@
   <img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
- <br>
 </div>
 
 ##
