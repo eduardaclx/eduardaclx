@@ -2,7 +2,7 @@
 ##
 
 <div align="center">
-  ###🖥️ Tecnologias que eu uso no meu dia a dia
+  ### 🖥️ Tecnologias que eu uso no meu dia a dia
   <br>
   <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
