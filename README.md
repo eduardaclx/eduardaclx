@@ -17,7 +17,7 @@
  
  ##
    
-   ### 🖥️ Tecnologias que uso no meu dia a dia
+   ### 🖥️ Technologies I use
   
 <div align="center">
    <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/174492647-f1877e0f-49ed-4625-bef6-f14265afd44b.png">
@@ -31,12 +31,12 @@
    
 ##
  
-   ### ✨ Informações Gerais
+   ### ✨ General Informations
    
-   📚 Estudante de Analise e Desenvolvimento de Sistemas na SPTECH
+   📚Analysis and Systems Development Student at SPTECH
    <br>
-   👾 1/4 Semestres
+   👾 1/4 Semester
    <br>
-   🌎 Inglês intermediário
+   🌎 Intermediary English
    
 
