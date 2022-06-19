@@ -20,7 +20,7 @@
    ### 🖥️ Tecnologias que uso no meu dia a dia
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
+   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/174492647-f1877e0f-49ed-4625-bef6-f14265afd44b.png">
    <br>
    <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
