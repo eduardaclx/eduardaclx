@@ -9,7 +9,7 @@
  
  ##
 
-### 🖥️ Tecnologias que eu uso no meu dia a dia
+### 🖥️ Tecnologias que uso no meu dia a dia
 <div align="center">
   <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,15 +20,7 @@
 ##
  
 
- <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/170887665-08d99e1c-b54a-44bb-9aa1-f167150a42fd.png">
- <br>
- <br>
- <div style="display: inline_block;" align="center"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
- </div>
+
   <br>
   
    <div align="center">
