@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/175796639-6a193c2b-4a42-4a5d-b33d-4d006a649c7d.png">
+   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/175796658-7d87a73f-1976-4c08-a825-31bc86cb3e6e.png">
    <br>
    <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
