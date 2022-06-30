@@ -34,6 +34,7 @@
    ### ✨ General Informations
    
    🏢 Inter Developer at Safra
+   <br>
    📚 Analysis and Systems Development Student at SPTECH
    <br>
    👾 1/4 Semesters
