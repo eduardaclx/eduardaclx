@@ -39,6 +39,6 @@
    <br>
    👾 1/4 Semesters
    <br>
-   🌎 Intermediary English
+   🌎 Pre-Advanced English
    
 
