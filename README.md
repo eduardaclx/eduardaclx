@@ -33,7 +33,8 @@
  
    ### ✨ General Informations
    
-   📚Analysis and Systems Development Student at SPTECH
+   🏢 Inter Developer at Safra
+   📚 Analysis and Systems Development Student at SPTECH
    <br>
    👾 1/4 Semesters
    <br>
