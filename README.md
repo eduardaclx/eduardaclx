@@ -33,7 +33,7 @@
  
    ### ✨ General Informations
    
-   🏢 Inter Developer at Safra
+   🏢 Intern Developer at Safra
    <br>
    📚 Analysis and Systems Development Student at SPTECH
    <br>
