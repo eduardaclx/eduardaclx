@@ -39,13 +39,13 @@
  
    ### ✨ General Informations
    
-      🏢 Intern Developer at Safra
+ 🏢 Intern Developer at Safra
    <br>
-         📚 Analysis and Systems Development Student at SPTECH
+  📚 Analysis and Systems Development Student at SPTECH
    <br>
-            👾 2/4 Semesters
+  👾 2/4 Semesters
    <br>
-             🌎 Pre-Advanced English
+   🌎 Pre-Advanced English
    <br>
-               ✍️ Currently learning C# and Java
+   ✍️ Currently learning C# and Java
    
