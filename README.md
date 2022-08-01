@@ -46,5 +46,7 @@
    👾 2/4 Semesters
    <br>
    🌎 Pre-Advanced English
+   <br>
+   ✍️ Currently learning C# and Java
    
-
+14
