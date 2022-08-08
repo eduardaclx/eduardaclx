@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/175796658-7d87a73f-1976-4c08-a825-31bc86cb3e6e.png">
+   <img align="right" height="300" style="border-radius:50px;" src="https://i.gifer.com/origin/58/58c3674db67a83d4eeabad1183113b3e_w200.gif">
    <br>
    <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -28,7 +28,7 @@
   <img height="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img height="40em" src="https://media1.giphy.com/media/kclEz5mbAtt65jcaTr/giphy.gif?cid=6c09b952zxikmp036qxl7j10px3nj02intgifumrsknpbemt&rid=giphy.gif">
+ 
    
    
    
