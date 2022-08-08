@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/509fa7a4-5d80-4644-bc0b-071e43e1053e/d6may2a-fb68e69c-bf70-4cef-b1ed-510eb9280dae.gif">
+   <img align="right" height="300" style="border-radius:50px;" src="https://thumbs.gfycat.com/CreativeEuphoricCockatoo-max-1mb.gif">
    <br>
    <br>
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
