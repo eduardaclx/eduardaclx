@@ -20,7 +20,8 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://thumbs.gfycat.com/CreativeEuphoricCockatoo-max-1mb.gif">
+   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/185652338-4f5c0628-e791-43f6-a6b8-9094f9068cf5.gif
+">
    <br>
    <br>
  
