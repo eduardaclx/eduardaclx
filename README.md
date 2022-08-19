@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://www.pinterest.com/w161003/penguin-gifs/">
+   <img align="right" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
    <br>
    <br>
  
