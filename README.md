@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://c.tenor.com/hyRFiIX7e1sAAAAM/gif-club-penguin-dance.gif">
+   <img align="right" height="300" style="border-radius:50px;" src="https://c.tenor.com/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif">
    <br>
    <br>
  
