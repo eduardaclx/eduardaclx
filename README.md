@@ -14,9 +14,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardaclx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaclx&layout=compact&langs_count=7&theme=dark"/>
  </div>
- 
-###  🖥️ Technologies I use
 ##
+###  🖥️ Technologies I use
+
    
 <div align="center">
    <img align="right" height="300" style="border-radius:50px;" src="https://static.wikia.nocookie.net/clubpenguin/images/9/98/Pinguim_Dan%C3%A7ando.gif/revision/latest?cb=20150501180552&path-prefix=pt-br">
