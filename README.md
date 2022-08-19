@@ -29,6 +29,7 @@
   <img height="40em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img height="40em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
  
    
@@ -48,5 +49,5 @@
    <br>
    🌎 Pre-Advanced English
    <br>
-   ✍️ Currently learning Java and Angular
+   ✍️ Currently learning Java and TypeScript with Angular Framework
    
