@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://c.tenor.com/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif">
+   <img align="right" height="300" style="border-radius:50px;" src="https://static.wikia.nocookie.net/clubpenguin/images/9/98/Pinguim_Dan%C3%A7ando.gif">
    <br>
    <br>
  
