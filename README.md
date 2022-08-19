@@ -46,5 +46,5 @@
    <br>
    🌎 Pre-Advanced English
    <br>
-   ✍️ Currently learning C# and Java
+   ✍️ Currently learning Java and Angular
    
