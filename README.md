@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif
+   <img align="right" height="300" style="border-radius:50px;" src="(https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
 ">
    <br>
    <br>
