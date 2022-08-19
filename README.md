@@ -21,7 +21,7 @@
 
    
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="https://static.wikia.nocookie.net/clubpenguin/images/9/98/Pinguim_Dan%C3%A7ando.gif/revision/latest?cb=20150501180552&path-prefix=pt-br">
+   <img align="right" height="300" style="border-radius:50px;" src="https://cdn.streamelements.com/uploads/335ddac8-d9b7-444a-9e3d-67b229413a7c.gif">
    <br>
    <br>
   <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
