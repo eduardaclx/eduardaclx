@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="ttp://pa1.narvii.com/7094/61a0f7dd0a3db2608cfdc46140deff3f544307f9r1-256-256_00.gif">
+   <img align="right" height="300" style="border-radius:50px;" src="http://pa1.narvii.com/7094/61a0f7dd0a3db2608cfdc46140deff3f544307f9r1-256-256_00.gif">
    <br>
    <br>
  
