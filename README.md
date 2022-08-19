@@ -20,7 +20,7 @@
    ### 🖥️ Technologies I use
   
 <div align="center">
-   <img align="right" height="300" style="border-radius:50px;" src="![gif](https://user-images.githubusercontent.com/100138993/185653691-63402635-197e-424d-bf80-50acabd47596.gif)
+   <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100138993/185653691-63402635-197e-424d-bf80-50acabd47596.gif
 
 ">
    <br>
