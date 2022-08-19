@@ -1,4 +1,4 @@
-###   Welcome! I'm Calixto 🎮
+###   Welcome, I'm Calixto 🎮
 ##
 
    <div align="center">
