@@ -19,24 +19,16 @@
    
    
     ### 🖥️ Technologies I use
-   
 <div align="center">
    <img align="right" height="300" style="border-radius:50px;" src="https://static.wikia.nocookie.net/clubpenguin/images/9/98/Pinguim_Dan%C3%A7ando.gif/revision/latest?cb=20150501180552&path-prefix=pt-br">
    <br>
    <br>
- 
   <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img height="40em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img height="40em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  
-  
- 
-   
-   
-   
 </div>
    
 ##
