@@ -11,8 +11,8 @@
    
  <div align="center">
   <a href="https://github.com/eduardaclx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardaclx&show_icons=true&theme=dracula-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaclx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardaclx&show_icons=true&theme=radical-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaclx&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
  ##
