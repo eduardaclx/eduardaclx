@@ -35,7 +35,7 @@
  
    ### ✨ General Informations
    
- 🏢 Intern Developer at Safra
+ 🏢 Intern Backend Developer at Safra
    <br>
   📚 Analysis and Systems Development Student at SPTECH
    <br>
