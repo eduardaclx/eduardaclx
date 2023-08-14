@@ -38,7 +38,7 @@
    <br>
   📚 Analysis and Systems Development Student at SPTECH
    <br>
-  👾 3/4 Semesters
+  👾 4/4 Semesters
    <br>
    🌎 Pre-Advanced English
    <br>
