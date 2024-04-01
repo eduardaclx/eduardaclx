@@ -34,12 +34,10 @@
  
    ### ✨ General Informations
    
- 🏢 Intern Backend Developer at Safra
+ 🏢 Jr Backend Developer at Safra
    <br>
   📚 Analysis and Systems Development Student at SPTECH
    <br>
   👾 4/4 Semesters
    <br>
-   🌎 Pre-Advanced English
-   <br>
-   ✍️ Currently learning Java and C#
+   🌎 Pre-Advanced English (level B2)
