@@ -34,7 +34,7 @@
  
    ### ✨ General Informations
    
- 🏢 Jr Backend Developer at Safra
+ 🏢 Pl Backend Developer at Safra
    <br>
   📚 Analysis and Systems Development Student at SPTECH
    <br>
